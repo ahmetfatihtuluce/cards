@@ -4,7 +4,7 @@ import Course from "./Course";
 import Angular from "./images/angular.jpg";
 import Bootstrap from "./images/bootstrap5.png";
 import Csharp from "./images/ccsharp.png";
-import KompleWeb from "./images/kompleweb.jpg";
+import frontend from "./images/frontend.jpg";
 
 function App() {
   return (
@@ -50,7 +50,7 @@ function App() {
           </div>
           <div className="column">
             <Course
-              image={KompleWeb}
+              image={frontend}
               title="Frontend"
               description="Lorem ipsum dolor sit amet, consectetur adipiscing elit,
               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam,
